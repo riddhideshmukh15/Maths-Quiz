@@ -54,6 +54,5 @@ A simple Python-based Math Quiz game that tests basic mathematical skills and di
 
 Riddhi Deshmukh
 
----
 
-⭐ If you like this project, consider giving the repository a star!
+
