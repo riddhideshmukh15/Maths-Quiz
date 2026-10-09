@@ -1,65 +1,59 @@
-# Math Quiz
+# 🧮 Math Quiz
 
-A simple beginner-friendly Python math quiz that asks mathematical questions and calculates the user's score.
+A simple Python-based Math Quiz game that tests basic mathematical skills and displays the player's final score, percentage, and grade.
 
-## Features
+## ✨ Features
 
-* Asks multiple math questions
-* Takes answers from the user
-* Checks whether the answer is correct
-* Displays the correct answer when the user is wrong
-* Keeps track of the score
-* Shows the final score after the quiz
+* Enter player's name
+* Answer 5 math questions
+* Check correct and incorrect answers
+* Calculate total score and percentage
+* Display performance grade
+* Play again without restarting the program
 
-## Questions Included
+## 🛠️ Technologies Used
 
-* 5 + 7
-* 56 + 90
-* 20 ÷ 5
-* 769 ÷ 3
-* 9 + 8
+* Python 3
 
-## Technologies Used
+## ▶️ How to Run
 
-* Python
-* Random module
+1. Clone this repository:
 
-## How to Run
+   ```bash
+   git clone https://github.com/riddhideshmukh15/Maths-Quiz.git
+   ```
+2. Open the project folder:
 
-1. Make sure Python is installed.
-2. Open the project folder in Command Prompt or VS Code.
-3. Run:
+   ```bash
+   cd Maths-Quiz
+   ```
+3. Run the Python file:
 
-```bash
-python math_quiz.py
-```
+   ```bash
+   python Maths-Quiz.py
+   ```
 
-## Example
+## 📊 Grading System
 
-```text
-==== Math Quiz ====
+| Percentage    | Grade            |
+| ------------- | ---------------- |
+| 80% and above | Excellent!       |
+| 60%–79%       | Good!            |
+| 40%–59%       | Average          |
+| Below 40%     | Keep Practicing! |
 
-What is 5+7 ?
-Your answer: 12
-Correct!
+## 🎯 Learning Outcomes
 
-What is 9+8 ?
-Your answer: 10
-Wrong! Correct answer: 17
+* Python loops and conditional statements
+* Lists and tuples
+* User input and output
+* Score and percentage calculations
+* Basic error-tolerant numerical comparison
 
-==== Quiz Finished ====
-Your Score: 1 / 2
-```
+## 👩‍💻 Author
 
-## Future Improvements
+Riddhi Deshmukh
 
-* Add more questions
-* Generate random math questions
-* Add multiplication and subtraction
-* Add difficulty levels
-* Add a timer
-* Show percentage score
+---
 
-## Author
-
-**Riddhi Deshmukh**
+⭐ If you like this project, consider giving the repository a star!
